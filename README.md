@@ -18,7 +18,7 @@ This model can be used on different datasets. Few of the available dataset can b
 I have used facades dataset in this case.
 
 # Training:
-GAN model trained for 100 epochs with batch size as 1. And generated images and weights of the model are saved after every 10 epochs. Once the training is done, these generated images are comapred with the target images, and the one which produces the more realistic images is selected as a final model. 
+cGAN model trained for 100 epochs with batch size as 1. And generated images and weights of the model are saved after every 10 epochs. Once the training is done, these generated images are comapred with the target images, and the one which produces the more realistic images is selected as a final model. 
 
 In this case, I could achieve better results after 60 epochs. And the same result is shown below.
 

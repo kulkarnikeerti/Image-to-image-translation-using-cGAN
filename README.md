@@ -26,4 +26,4 @@ In this case, I could achieve better results after 60 epochs. And the same resul
 ![](Images/facades.JPG)
 
 First row indicates the source images, middle row is for generated images from the generator and the last row is for the target images.
-Reffer for detailed understanding of the GAN: 
+Reffer for detailed understanding of the GAN: https://medium.com/@keertikkulkarni12/image-to-image-translation-gan-and-conditional-gan-f995901de39
